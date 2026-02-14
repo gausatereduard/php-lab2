@@ -9,4 +9,4 @@ $days = 288;
 $message = "Все возвращаются на работу!";
 
 echo $days . " дней каникул! " . $message . "<br/>";
-echo "{$days} дней каникул! Нет, {$message}" . "<br/>";
+echo "$days дней каникул! Нет, $message" . "<br/>";
